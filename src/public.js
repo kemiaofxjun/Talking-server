@@ -49,14 +49,14 @@ function getPublicHTML(posts) {
         .tag { background: #1da1f2; color: white; padding: 4px 8px; border-radius: 12px; 
                font-size: 12px; margin-right: 8px; }
         .post-content { margin-top: 15px; }
-        .post-content img { max-width: 100%; border-radius: 8px; }
+        .post-content img { max-width: 50%; border-radius: 8px; }
         h1 { text-align: center; color: #14171a; margin: 0; }
     </style>
 </head>
 <body>
     <div class="header">
         <h1>🌟 社交动态</h1>
-        <a href="/auth/login" class="login-btn">管理员登录</a>
+        <a href="/admin/login" class="login-btn">管理员登录</a>
     </div>
     
     <div id="posts">
