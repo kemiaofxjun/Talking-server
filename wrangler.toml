@@ -8,7 +8,7 @@ id = "a57a8466d904430db4ee1aee3f8b32d6"
 
 [[r2_buckets]]
 binding = "POST_BUCKET"
-bucket_name = "talking"
+bucket_name = "rss1"
 
 [vars]
 GITHUB_CLIENT_ID = "Ov23liFji9Z0yMQlsLw0"
