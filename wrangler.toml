@@ -1,0 +1,16 @@
+name = "social-moments"
+main = "src/index.js"
+compatibility_date = "2025-09-09"
+
+[[kv_namespaces]]
+binding = "POSTS_KV"
+id = "talk"
+
+[[r2_buckets]]
+binding = "POST_BUCKET"
+bucket_name = "talking"
+
+[vars]
+GITHUB_CLIENT_ID = "---"
+GITHUB_CLIENT_SECRET = "---"
+ADMIN_USERS = '["---"]'
