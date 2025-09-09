@@ -10,7 +10,7 @@ id = "a57a8466d904430db4ee1aee3f8b32d6"
 binding = "POST_BUCKET"
 bucket_name = "talking"
 
-[vars]
-GITHUB_CLIENT_ID = "---"
-GITHUB_CLIENT_SECRET = "---"
-ADMIN_USERS = '["---"]'
+# [vars]
+# GITHUB_CLIENT_ID = "---"
+# GITHUB_CLIENT_SECRET = "---"
+# ADMIN_USERS = '["---"]'
